@@ -1,0 +1,4 @@
+//Zadatak 1
+//Pokrenite browser, idite na Linkedin sajt, uradite refresh, idite na Joberty sajt
+//vratite se nazad i odstampajte poslednji URL na kom se nalazite
+//na kraju zatvorite driver
